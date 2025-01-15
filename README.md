@@ -1,20 +1,6 @@
 <div align="center">
   <div style="display: flex; gap: 0.7rem; justify-content: center">
-  <!-- <img width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />  -->
-
-  <div align="left">
-    <p style="background: rgb(10,10,10); border-radius: 1rem; padding: 2.5rem">
-      <i style="font-size: 2rem;">
-        "What I cannot create, I do not understand"
-      </i>
-      <br>
-      <i style="font-size: 1.2rem;">
-        - Richard P. Feynman
-      </i>
-    </p>
-  </div>
-
-  <!-- <img width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />  -->
+    <img src="assets/Quote.png">
   </div>
 
   <br>
