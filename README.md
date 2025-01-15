@@ -1,22 +1,47 @@
 <div align="center">
+  <div style="display: flex; gap: 0.7rem; justify-content: center">
+  <!-- <img width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />  -->
 
-  # Welcome to my life 
+  <div align="left">
+    <p style="background: rgb(10,10,10); border-radius: 1rem; padding: 2.5rem">
+      <i style="font-size: 2rem;">
+        "What I cannot create, I do not understand"
+      </i>
+      <br>
+      <i style="font-size: 1.2rem;">
+        - Richard P. Feynman
+      </i>
+    </p>
+  </div>
 
+  <!-- <img width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />  -->
+  </div>
+
+  <br>
   <a href="https://www.youtube.com/@alexanderneo8866/" target="_blank">
     <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-right: 20px;"/>
   </a>
-
   <a href="https://www.linkedin.com/in/alexanderneo427/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=""/>
   </a>
+</div>
+<br>
 
-  <br></br>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderNeo427&show_icons=true&theme=tokyonight)]
-</div> 
+<a href="https://github.com/AlexanderNeo427/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderNeo427&theme=tokyonight" />
+</a>
+<a href="https://github.com/AlexanderNeo427/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderNeo427&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide=c,mathematica,cmake,objective-c,hlsl,shaderlab,makefile" />
+</a>
 
-<br></br>
+## About Me
+:triangular_ruler: **Education:** Computer Science undergraduate at the University of Wollongong *(based in Singapore, via SIM GE)*
+:computer: **Editor:** VSCode
+:penguin: **OS:** I use ~~Arch~~ Linux Mint, btw
 
-## Projects *(Non-exhaustive)*
+I am a CS student who enjoys creating interactive and visually-engaging simulations. 
+
+## *Non-exhaustive* list of projects/langauges
 <table align="center">
 
   <!-- Headers -->
@@ -68,6 +93,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS" /><br>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br>
       <img src="https://img.shields.io/badge/Cocos%20Creator-5088C5?style=for-the-badge&logo=cocos&logoColor=white" alt="Cocos Creator" />
     </td>
@@ -105,3 +131,15 @@
     <td></td>
   </tr>
 </table>
+
+## Tools/Technologies I've used
+<div style="display: flex; gap: 2.5rem">
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+</div>
+          
+
+          
