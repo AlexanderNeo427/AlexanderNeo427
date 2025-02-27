@@ -87,7 +87,7 @@ I am a CS student who enjoys creating interactive and visually-engaging simulati
     </td>
     <td>
       <ul>
-        <li><a href="https://pet-heaven-9fbb4-68150.firebaseapp.com/">Pet Heaven</a><br></li>
+        <li><a href="https://github.com/AlexanderNeo427/ISIT207-A3_Pet-Heaven">Pet Heaven</a><br></li>
         <li><a href="https://yet-another-wordle-clone.netlify.app/">(Yet Another) Wordle Clone</a></li>
       </ul>
     </td>
@@ -103,7 +103,7 @@ I am a CS student who enjoys creating interactive and visually-engaging simulati
     <td></td>
     <td>
       <ul>
-        <li><a href="https://azoom-car-rentals.netlify.app/">AZoom Car Rentals</a><br></li>
+        <li><a href="https://github.com/AlexanderNeo427/ISIT207_A2-AZoom-Car-Rentals">AZoom Car Rentals</a><br></li>
       </ul>
     </td>
   </tr>
