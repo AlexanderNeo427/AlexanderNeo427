@@ -88,6 +88,7 @@ I am a CS student who enjoys creating interactive and visually-engaging simulati
     <td>
       <ul>
         <li><a href="https://github.com/AlexanderNeo427/ISIT207-A3_Pet-Heaven">Pet Heaven</a><br></li>
+        <li><a href="https://singapore-map-pathfinding.netlify.app/">Singapore Map Pathfinding</a></li>
         <li><a href="https://yet-another-wordle-clone.netlify.app/">(Yet Another) Wordle Clone</a></li>
       </ul>
     </td>
